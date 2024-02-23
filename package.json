@@ -1,0 +1,19 @@
+{
+  "name": "learn-typescript-essentials",
+  "version": "1.0.0",
+  "description": "first use Type Scritp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddonec/Learn-TypeScript-essentials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddonec/Learn-TypeScript-essentials/issues"
+  },
+  "homepage": "https://github.com/Ddonec/Learn-TypeScript-essentials#readme"
+}
