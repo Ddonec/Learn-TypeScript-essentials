@@ -75,12 +75,12 @@ addNumbers(1);    // Returns 1
 
 // Параметры по умолчанию:
 
-function addNumbers (x: number, y = 25): number {
+function addNumbers5 (x: number, y = 25): number {
     return x + y;
  }
  
- addNumbers(1, 2);  // Returns 3
- addNumbers(1);     // Returns 26
+ addNumbers5(1, 2);  // Returns 3
+ addNumbers5(1);     // Returns 26
 
 
 //  Множество параметров:
