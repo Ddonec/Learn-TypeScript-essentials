@@ -1,7 +1,7 @@
-function addNumbers(x: number, y: number): number {
+function addNumber(x: number, y: number): number {
    return x + y;
 }
-addNumbers(1, 2);
+addNumber(1, 2);
 
 //  в функции указывается тип вводныз данных и выходного значения
 
